@@ -1,5 +1,5 @@
 [config]
 
-TelApi_id=8860186
-TelApi_hash=bede1e8f301d0e0c42936c0a888c88d0
-TelChnlLink=https://t.me/joinchat/A04rRjiTmVcwOWJk
+TelApi_id=
+TelApi_hash=
+TelChnlLink=
