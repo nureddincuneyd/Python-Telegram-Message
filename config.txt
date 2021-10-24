@@ -1,5 +1,5 @@
 [config]
 
-TelApi_id=
+TelApi_id= 
 TelApi_hash=
 TelChnlLink=
