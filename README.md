@@ -2,6 +2,8 @@
 #### V1.0.1
 
 
+> Reauired Python Version (Python 3.9.7)
+
 
 ### Necessary Install
 
